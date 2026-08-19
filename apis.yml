@@ -31,7 +31,7 @@ x-status: acquired
 x-acquired-by: spotify
 x-enrichment-note: 'bettylabs.io 301-redirects to spotify.com (probed 2026-07-18); no independent developer
   surface exists to enrich. No API artifacts created (no fabrication).'
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-18'
 tags:
