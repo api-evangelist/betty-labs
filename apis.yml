@@ -64,3 +64,9 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+common:
+- type: ParentCompany
+  url: https://apis.io/providers/spotify/
+  name: Spotify
+  x-relationship: acquired
+  x-evidence: "Backed by Lightspeed Venture Partners, the company was acquired by Spotify in 2021, after which Locker Room was rebuilt into Spotify's live-audio product (Greenroom / Spotify Live)."
